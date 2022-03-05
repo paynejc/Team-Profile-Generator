@@ -1,4 +1,3 @@
-const { MODULESPECIFIER_TYPES } = require("@babel/types");
 const Employee = require("./Employee");
 
 class Intern extends Employee {
