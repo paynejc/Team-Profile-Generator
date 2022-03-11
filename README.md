@@ -6,4 +6,4 @@ When you are prompted for team members information, an HTML file is generated th
 
 If you have any questions feel free to reach out to paynejc on GitHub or email paynejc84@gmail.com
 
-![Employees](https://user-images.githubusercontent.com/8907347/156872971-eb6ff472-e708-4ae4-a817-ab994b592653.JPG)
+![Team Generator](https://user-images.githubusercontent.com/8907347/157776443-3a3b908a-6f38-4bf1-a488-a36834a62188.JPG)
