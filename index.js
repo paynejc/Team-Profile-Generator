@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const path = require("path");
 const Manager = require('./library/Manager');
-const Engineer = require('./library/Employee');
+const Engineer = require('./library/Engineer');
 const Intern = require('./library/Intern');
 
 const DIST_DIR = path.resolve(__dirname, 'dist');
